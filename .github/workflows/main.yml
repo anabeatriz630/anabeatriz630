@@ -1,7 +1,7 @@
-name: generate animations
+name: Generate Pacman
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,15 +13,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: generate files
+      - name: Generate pacman.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: anabeatriz630
           outputs: |
-            snake.svg
-            pacman.svg?animation=pacman
+            pacman.svg?animation=pacman&color_snake=yellow&color_dots=#161b22,#0a3069,#0969da,#54aeff,#babbf1
 
-      - name: push to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
