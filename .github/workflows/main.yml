@@ -17,9 +17,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: anabeatriz630
-          outputs: |
-            pacman.svg?animation=pacman&color_snake=yellow&color_dots=#161b22,#0a3069,#0969da,#54aeff,#babbf1
-
+         outputs: |
+            pacman.svg?animation=pacman&color_snake=#f1c40f&color_dots=#161b22,#4a148c,#7b1fa2,#ab47bc,#e1bee7
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
