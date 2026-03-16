@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://blogs.mathworks.com/matlab/files/2024/02/animatingFlickbook_1.gif" width="250px">
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="250px">
  
   <h1>Olá! Eu sou a Ana Beatriz 👋</h1>
 
