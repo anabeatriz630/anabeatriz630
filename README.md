@@ -1,17 +1,21 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqdW94eG54eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="200px">
+  <img src="https://i.pinimg.com/originals/a0/0b/48/a00b484501a4e107455d31536b63c788.gif" width="250px">
 
   <h1>Heyy! I'm Ana Beatriz 👋</h1>
 
-  <img src="https://raw.githubusercontent.com/anabeatriz630/anabeatriz630/output/pacman.svg" alt="Pacman" />
+  <img src="https://raw.githubusercontent.com/anabeatriz630/anabeatriz630/output/snake.svg" alt="Snake" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anabeatriz630&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatriz630&layout=compact&langs_count=7&theme=tokyonight" width="45%" />
+  <h3>Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vscode,git&theme=dark" />
 
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anabeatriz630&theme=tokyonight" width="91%" />
+  <br><br>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anabeatriz630&theme=tokyonight&show_icons=true&hide_border=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatriz630&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
+  </div>
 
 </div>
