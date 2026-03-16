@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/25/1c/ff/251cffa53847e1f1c53e705e2f0d30b0.gif" width="400px">
+<img src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif" width="400px">
  
   <h1>Olá! Eu sou a Ana Beatriz 👋</h1>
 
