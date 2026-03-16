@@ -1,7 +1,7 @@
 <div align="center">
 
-
- <img src="https://i.pinimg.com/originals/81/b1/65/81b1652430335f60686968038883e018.gif" width="300px">
+<img src="https://i.pinimg.com/originals/81/b1/65/81b1652430335f60686968038883e018.gif" width="300px" alt="Gatinho na janela">
+ 
  
   <h1>Olá! Eu sou a Ana Beatriz 👋</h1>
 
