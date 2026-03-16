@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://pin.it/3zYFUmFKo.gif" width="300px">
+  <img src="https://pin.it/1ZAjOt6jk="200px">
 
   <h1>Olá! Eu sou a Ana Beatriz 👋</h1>
 
