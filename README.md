@@ -2,6 +2,7 @@
 
 <div align="center">
  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="200px"> <h1><strong><font color="#pimk"> ✧. ┊🌸 <i>Perfil de Ana Beatriz </font></strong></h1>
+  <p>faço curso de info pra internet 2/3 na Etec Cidade Tiradentes</p>
 </div>
 
 
